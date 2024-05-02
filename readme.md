@@ -5,3 +5,6 @@
 ##### Level 5 Heading
 ###### Level 6 Heading
 
+*italic text*
+**bold text**
+
