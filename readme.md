@@ -17,4 +17,4 @@
 [SKILLS CAREER](https://skills-career.com/)
 
 
-![Alt SKILLS Login Page](11.png)
+![Alt SKILLS Login Page](1.png)
