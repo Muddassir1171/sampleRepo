@@ -22,5 +22,6 @@
 
 ```JavaScript
 console.log("Hello, World!")
+```
 
 > This is a block quote.
