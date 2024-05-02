@@ -1,8 +1,8 @@
-# Project Title
+# To-Do App
 
-Sample Project
+A simple and intuitive To-Do App to help you stay organized.
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) <!-- Add a license badge if applicable -->
+![To-Do App](https://cdn.dribbble.com/users/332157/screenshots/4739703/todolistdribbble.gif)
 
 ## Table of Contents
 
@@ -10,27 +10,27 @@ Sample Project
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
-Briefly introduce your project and its purpose. Highlight why it's valuable and who it's intended for.
+The To-Do App is designed to assist users in managing their tasks efficiently. It provides a clean and user-friendly interface to add, edit, and delete tasks.
 
 ## Features
 
-List the key features of your project. Use bullet points to make them easily scannable.
-
-- Feature 1
-- Feature 2
-- Feature 3
+- Add tasks with descriptions and due dates.
+- Mark tasks as complete.
+- Edit existing tasks.
+- Delete tasks.
+- Simple and intuitive user interface.
 
 ## Installation
 
-Provide clear instructions on how to install your project. Include any prerequisites and step-by-step installation procedures.
+To install the To-Do App, follow these steps:
 
-```bash
-$ git clone https://github.com/username/project.git
-$ cd project
-$ npm install
+1. Clone the repository:
+
+   ```bash
+   $ git clone https://github.com/your-username/todo-app.git
