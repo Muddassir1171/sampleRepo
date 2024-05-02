@@ -32,3 +32,10 @@ console.log("Hello, World!")
 |----------|----------|
 | Row 1    | Row 1    |
 | Row 2    | Row 2    |
+
+
+- [x] Task 1
+- [ ] Task 2
+
+
+
