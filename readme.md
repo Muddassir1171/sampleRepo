@@ -18,3 +18,7 @@
 
 
 ![Alt SKILLS Login Page](1.png)
+
+
+```JavaScript
+console.log("Hello, World!")
